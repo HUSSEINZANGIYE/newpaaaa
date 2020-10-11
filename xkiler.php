@@ -119,8 +119,8 @@ $book="$url/book/?e=$O" ;
 ╠══[Port]══╣⫸
 ╟ 🔢YOR  CODE <code>$O</code>
 ╠═══[Creator]═══╣⫸
-╟ ✨Cʀᴇᴀᴛᴇᴅ Bʏ : @panda_Phish
-║ 🌐Webhosting : @XTuranli
+╟ ✨Channel : @Panda_Phish
+║ 🌐Code By : @SunPhish
 ╚══════  [𝙶𝚘𝚘𝚍 𝚕𝚞𝚌𝚔!] ════╣⫸
 ";
         

